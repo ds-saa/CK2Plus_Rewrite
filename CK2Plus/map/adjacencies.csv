@@ -1,5 +1,10 @@
 From;To;Type;Through;-1;-1;-1;-1;Comment
 496;741;sea;947;-1;-1;-1;-1;Constantinople-Nikomedia
+303;266;sea;999;-1;-1;-1;-1;Skane-Sjaelland
+266;265;sea;999;-1;-1;-1;-1;Sjaelland-Fyn
+266;1687;sea;999;-1;-1;-1;-1;Sjaelland-Lolland
+265;1687;sea;999;-1;-1;-1;-1;Fyn-Lolland
+265;264;sea;999;-1;-1;-1;-1;Fyn-Slesvig
 259;261;major_river;1046;-1;-1;-1;-1;Celle-Hamburg			#ELBE
 258;261;major_river;1046;-1;-1;-1;-1;Lüneburg-Hamburg
 309;261;major_river;1046;-1;-1;-1;-1;Altmark-Hamburg
